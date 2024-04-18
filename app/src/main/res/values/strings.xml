@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LeakCanarySample</string>
+    <string name="first_activity_text">Main Activity\n</string>
+    <string name="launch_second_activity_button">"Launch Second Activity "</string>
+</resources>
